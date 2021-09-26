@@ -27,6 +27,7 @@ function Card() {
     );
 };
 
+export default Card;
 
 // Another Solution
 // return (
@@ -47,7 +48,6 @@ function Card() {
 //     </div>
 // );
 
-export default Card;
 
 // Using useState
 
