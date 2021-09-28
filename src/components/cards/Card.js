@@ -13,14 +13,13 @@ function Card() {
                             <h2>{card.title}</h2>
                         </div>
                         <img src={card.image} alt={card.title} />
-
                         <div className="card-over">
                             <p>{card.desc}</p>
                         </div>
 
                     </div>
-                )
-            })}
+                );
+            })};
 
 
         </div>
