@@ -1,1 +1,3 @@
-![Tour-Places-Page](tour-places.gif)
+# Language Cards usin ReactJS and SCSS
+
+![Language Cards](language-cards.gif)
